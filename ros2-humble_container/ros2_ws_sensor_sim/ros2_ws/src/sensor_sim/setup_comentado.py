@@ -1,4 +1,5 @@
-from setuptools import find_packages, setup  # Importa funções para encontrar pacotes e configurar o pacote
+# Arquivo setup.py comentado
+# from setuptools import find_packages, setup  # Importa funções para encontrar pacotes e configurar o pacote
 
 package_name = 'sensor_sim'  # Define o nome do pacote
 

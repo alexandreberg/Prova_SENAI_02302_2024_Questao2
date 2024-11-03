@@ -1,0 +1,9 @@
+Log do Memory Publisher em execução:
+ rosuser@95974631fb73:~/ros2_ws/src/mem_info/mem_info$ cd ~/ros2_ws 
+rosuser@95974631fb73:~/ros2_ws$ source install/setup.bash
+rosuser@95974631fb73:~/ros2_ws$ ros2 run mem_info memory_publisher
+[INFO] [1730599819.033372280] [memory_publisher]: Publishing: "Total Memory: 7.67 GB, Used Memory: 5.57 GB, Usage: 79.1%"
+[INFO] [1730599820.013866939] [memory_publisher]: Publishing: "Total Memory: 7.67 GB, Used Memory: 5.57 GB, Usage: 79.1%"
+[INFO] [1730599821.013863384] [memory_publisher]: Publishing: "Total Memory: 7.67 GB, Used Memory: 5.57 GB, Usage: 79.1%"
+[INFO] [1730599822.014015446] [memory_publisher]: Publishing: "Total Memory: 7.67 GB, Used Memory: 5.57 GB, Usage: 79.1%"
+[INFO] [1730599823.013195038] [memory_publisher]: Publishing: "Total Memory: 7.67 GB, Used Memory: 5.57 GB, Usage: 79.1%"

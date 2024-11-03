@@ -1,3 +1,4 @@
+# Arquivo memory_publisher Comentado
 import rclpy                        # Importa a biblioteca principal do ROS2
 from rclpy.node import Node         # Importa a classe Node para criar nós ROS2
 from std_msgs.msg import String     # Importa o tipo de mensagem String para publicar os dados
